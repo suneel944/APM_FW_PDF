@@ -28,6 +28,7 @@ Framework is built in : [Eclipse 2020-06 IDE (For Java Developers)](https://www.
 1. [JDK 1.8.0_191 or Higher](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or [Open JDK](https://developers.redhat.com/products/openjdk/download)
 2. [Eclipse Neon or Higher](https://www.eclipse.org/downloads/packages/release)
 3. TestNG 6.9.9 or Higher. Instructions on how to install from stackoverflow [TestNG](https://stackoverflow.com/questions/63563729/unable-to-install-testng-plugin-in-latest-eclipse-ide/63563730#63563730)
+4. Appium 1.18 or higher
 
 ## Contributing
 
