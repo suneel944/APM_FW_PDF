@@ -1,8 +1,8 @@
-# Contributing to HYB_FW_PDF
+# Contributing to APM_FW_PDF
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1: 
 
-Thanks for checking out the HYB_FW_PDF(Hybrid Framework With PDF Reporting)! I am excited to hear and learn from you. Your experiences will benefit others **testers** who use this framework for their implementation.
+Thanks for checking out the APM_FW_PDF(Mobile Hybrid Framework With PDF Reporting)! I am excited to hear and learn from you. Your experiences will benefit others **testers** who use this framework for their implementation.
 
 I've put together the following guidelines to help you figure out where you can best be helpful.
 
